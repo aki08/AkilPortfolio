@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/Javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "AEM",
+      "imageSrc": "skills/AEM.png"
+    },
+    {
+      "title": "Wordpress",
+      "imageSrc": "skills/wordpress.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/postman.png"
+    },
+    {
+        "title": "Google Analytics",
+        "imageSrc": "skills/GA.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]

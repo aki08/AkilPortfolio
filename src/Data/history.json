@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Frontend Developer",
+      "organisation": "3i Infotech (Logitech)",
+      "startDate": "Jan, 2021",
+      "endDate": "Aug 2022",
+      "experiences": ["Developed Logitech Gaming Websites", "Contributed to the creation of UI components."],
+      "imageSrc": "history/Logitech-logo.png"
+    },
+    {
+      "role": "Technology Analyst",
+      "organisation": "Infosys",
+      "startDate": "July, 2020",
+      "endDate": "Jan, 2021",
+      "experiences": ["Developed M1 and GSK websites", "Led website migration Project"],
+      "imageSrc": "history/Infosys-logo.png"
+    },
+    {
+      "role": "Senior System Enginner - Application Support",
+      "organisation": "Infosys",
+      "startDate": "Apr, 2016",
+      "endDate": "June, 2020",
+      "experiences": [
+        "Worked on Code level Application Support",
+        "Reduced ticket load by 25%"
+      ],
+      "imageSrc": "history/Infosys-logo.png"
+    }
+  ]
